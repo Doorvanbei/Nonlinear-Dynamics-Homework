@@ -1,0 +1,1 @@
+the simple RNN model with h.shape = (48,1), where h is the state vector.
