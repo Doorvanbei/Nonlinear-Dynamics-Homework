@@ -1,0 +1,1 @@
+GRU model with h.shape = (24,1), where h is the state vector.
